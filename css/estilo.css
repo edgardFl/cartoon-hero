@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 30px;
+    background-color: #F0EFED;
+}
+
+header{
+    background-color: #DFD0A6;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h1, h2{
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+header h1{
+    color: white;
+    font-size: 40px;
+}
+
+header img{
+    border-radius: 170px;
+    width: 300px;
+    border: 20px solid white;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main img{
+    max-width: 800px;
+}
+
+h2{
+    font-size: 40px;
+    margin-top: 90px;
+    margin-bottom: 5px;
+}
+
+p{
+    font-size: 20px
+}
+
+ol, ul{
+    font-size: 20px
+}
+
+a{
+    color: black
+}
+
+a:hover{
+    color: white;
+    background-color: #FEAF5F;
+}
+
+footer{
+    background-color: #DFD0A6;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+footer p{
+    margin: 0;
+}
+
+p.leyenda{
+    color: grey;
+    font-style: italic;
+    margin-top: 0;
+    text-align: center;
+}
